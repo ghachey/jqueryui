@@ -9,3 +9,7 @@ If you are interested in helping develop jQuery UI, you are in the right place.
 To discuss development with team members and the community, visit the [Developing jQuery UI Forum](http://forum.jquery.com/developing-jquery-ui) or in #jquery on irc.freednode.net.
 
 ## This repo only holds precompiled files.
+
+This is a custom repository of the release files for the jquery-ui project. It was forked to customize the bower.json file to better integrate with build work-flows.
+
+It should pull from upstream once in a while to stay up-to-date.
